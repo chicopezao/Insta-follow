@@ -4,7 +4,7 @@
   "description": "Automação multi-site para envio de seguidores do Instagram",
   "main": "run.js",
   "scripts": {
-    "start": "node run_multi_site.js"
+    "start": "node run.js"
   },
   "keywords": [
     "instagram",
