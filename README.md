@@ -4,11 +4,11 @@ Este documento detalha os resultados dos testes de automação de envio de segui
 
 ## Estatísticas Finais
 
-- **Sites com sucesso:** 11
-- **Sites com erro:** 4
+- **Sites com sucesso:** 15
+- **Sites com erro:** 0
 - **Sites pulados:** 0
 - **Total de sites:** 15
-- **Taxa de sucesso:** 73.3%
+- **Taxa de sucesso:** 100%
 
 ## Sites que Funcionaram (Sucesso)
 
@@ -27,19 +27,10 @@ Os seguintes sites tiveram o processo de login e envio de seguidores concluído 
 - takipcikrali
 - takipcitime
 - medyahizmeti
-- mixtakip
-
-
-
-
-## Sites com Erro
-
-Os seguintes sites apresentaram erros durante o processo de automação:
-
-- **takipcigir:** Erro durante envio de seguidores: `Waiting for selector `input[name="userName"]` failed`
-- **canlitakipci:** Erro durante o login: `Waiting for selector `input[name="username"]` failed`
-- **takipciking_com:** Erro durante envio de seguidores: `Waiting for selector `input[name="userName"]` failed`
-- **takipcivar:** Erro durante o login: `Waiting for selector `input[name="username"]` failed`
+- mixcanlitakipcipcigir
+- canlitakipci
+- takipciking_com
+- takipcivar
 
 ## Análise dos Erros
 
