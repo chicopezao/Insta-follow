@@ -1,3 +1,6 @@
 luisa_sfd196 LUANLEVY18
 luisa_sfd197 LUANLEVY17
 luisa_sfd198 LUANLEVY18
+julia_bct01 JULINHA01
+julia_bct02 JULINHA02
+julia_bct03 JULINHA03
