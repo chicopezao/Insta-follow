@@ -2,7 +2,7 @@ const MultiSiteAutomation = require('./script.js');
 const express = require('express');
 const fs = require('fs').promises;
 
-const targetUsername = '021rdzinnnn';
+const targetUsername = 'Alvess_69_';
 const followerCount = 500;
 const accountsFilePath = './accounts.txt'; // Caminho para o arquivo de contas
 
